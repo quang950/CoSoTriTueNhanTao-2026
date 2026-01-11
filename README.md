@@ -4,6 +4,7 @@
 
 - **Họ và tên:** Dương Hạo Quang
 - **MSSV:** 3124411244
+- **Lớp:** DCT124C2
 - **Môn học:** Cơ sở Trí Tuệ Nhân Tạo
 
 ## 📝 Nội dung chính
