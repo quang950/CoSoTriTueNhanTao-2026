@@ -14,4 +14,4 @@
 - Thực hành tư duy lập trình và xử lý bài toán
 
 👉 **Bài tập chính được thực hiện trong file:**  
-`my_lession2.ipynb`
+`lesson1`
